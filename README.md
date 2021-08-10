@@ -1,4 +1,10 @@
-### Hi there 👋🏻
+## Hi, I'm Dmitriy 👋🏻
+
+👨🏻‍🎓 I'm a **student of Software Engineering** at HSE University.
+
+👨🏻‍💻 I have experience in **Web Development** (Python - Django) and **Desktop Applications** (C# - WPF).
+
+⚡️ I'm very interested in **iOS-development**.
 
 <!--
 **mrmda28/mrmda28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
