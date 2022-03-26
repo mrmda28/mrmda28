@@ -1,4 +1,4 @@
-## Hi, I'm Dmitriy 👋🏻
+## Hi, I'm Dmitry 👋🏻
 
 👨🏻‍🎓 I'm a **student of Software Engineering** at HSE University.
 
