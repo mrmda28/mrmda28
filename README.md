@@ -1,7 +1,7 @@
 ## Hi, I'm Dmitry 👋🏻
 
-👨🏻‍🎓 I'm a **student of Software Engineering** at HSE University.
+👨🏻‍💻 I’m a **Software Engineer** specializing in **iOS development**.
 
-⚡️ I'm very interested in **iOS-development**.
+🎓 I have a Bachelor’s degree in **Software Engineering** from HSE University.
 
-👨🏻‍💻 I have experience in  **Android** (Kotlin, Java), **Web** (Python - Django) and **Desktop** (C++).
+⚡️ I also have experience in **Android**, **Web** (Python + Django), **Desktop** (C++, Java) and **Multiplatform** (Kotlin/Compose Multiplatform).
