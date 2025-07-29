@@ -4,4 +4,4 @@
 
 🎓 I have a Bachelor’s degree in **Software Engineering** from HSE University.
 
-⚡️ I also have experience in **Android**, **Web** (Python + Django), **Desktop** (C++, Java) and **Multiplatform** (Kotlin/Compose Multiplatform).
+⚡️ I also have experience in **Desktop** (Qt, JavaFX), **Web** (Django, React), **Android** and **Multiplatform** (Kotlin/Compose Multiplatform).
