@@ -1,4 +1,4 @@
-## Hi, I'm Dmitry 👋🏻
+## Hi, I'm Dmitrii 👋🏻
 
 👨🏻‍💻 I’m a **Software Engineer** specializing in **iOS development**.
 
